@@ -9,3 +9,7 @@ Data Science Portfolio - Click Each Project Heading to Access Project Related Fi
 •	Created choropleth maps to visualize air and water pollution data layered on data for ckd prevalence with the US. Created correlations of food access and fast-food restaurant location data vs ckd prevalence data within the US.
 
 • Desktop and Mobile Phone applications were created to provide access to the predictive model at the fingertips of physicians and patients.
+
+# [Project 2: Wildfire Prediction](https://github.com/klipetri/Wildfire-Prediction.git)
+
+• Computer vision project utilizing color satellite images of areas at risk/not at risk of wildfire to develop a Convolutional Neural Network model for prediction of areas at risk of wildfire occurrence. Optimization through transfer learning (Keras Applications VGG16 model) and hyperparameter tuning. Final model test accuracy of 93.3% achieved.
