@@ -1,4 +1,3 @@
-theme: modernist
 # Kathryn_LiPetri_Portfolio
 Data Science Portfolio - Click Each Project Heading to Access Project Details
 # [Project 1: Chronic Kidney Disease Detection and Prevention](https://github.com/klipetri/Chronic-Kidney-Disease-Detection-and-Prevention.git)
