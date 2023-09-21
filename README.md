@@ -15,3 +15,7 @@ Click Each Project Heading to Access Project Related Files
 # [Project 2: Wildfire Prediction](https://github.com/klipetri/Wildfire-Prediction.git)
 
 • Computer vision project utilizing color satellite images of areas at risk/not at risk of wildfire to develop a Convolutional Neural Network model for prediction of areas at risk of wildfire occurrence. Optimization through transfer learning (Keras Applications VGG16 model) and hyperparameter tuning. Final model test accuracy of 93.3% achieved.
+
+# [Project 3: Movie Review Classification](https://github.com/klipetri/Movie-Review-Classification.git)
+
+• NLP of movie reviews (genre and positive/negative rating) using k-means clustering, classification models (SVM, Logistic Regression, Naive bayes, Random Forest), Recurrent Neural Networks, and LSTM models. Analyzed impact of different data preprocessing methods and regularization parameters such as TF-IDF, Doc2Vec, and Word2Vec.
