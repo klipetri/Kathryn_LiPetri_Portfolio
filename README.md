@@ -1,6 +1,6 @@
 # Kathryn_LiPetri_Portfolio
 Data Science Portfolio
-# Project 1: Chronic Kidney Disease Detection and Prevention
+# [Project 1: Chronic Kidney Disease Detection and Prevention](https://github.com/klipetri/Chronic-Kidney-Disease-Detection-and-Prevention.git)
 
 •	Analyzed patient health data, environmental pollution (air and water) data, and food access data to determine factors that indicate and contribute to chronic kidney disease (ckd) in the US population. 
 
