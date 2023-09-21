@@ -1,4 +1,6 @@
-# Click Each Project Heading to Access Project Related Files
+# Kathryn LiPetri
+
+Click Each Project Heading to Access Project Related Files
 
 # [Project 1: Chronic Kidney Disease Detection and Prevention](https://github.com/klipetri/Chronic-Kidney-Disease-Detection-and-Prevention.git)
 
