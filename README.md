@@ -1,4 +1,4 @@
-# Kathryn LiPetri
+# Data Science Project List
 
 Click Each Project Heading to Access Project Related Files
 
