@@ -19,3 +19,7 @@ Click Each Project Heading to Access Project Related Files
 # [Project 3: Movie Review Classification](https://github.com/klipetri/Movie-Review-Classification.git)
 
 • NLP of movie reviews (genre and positive/negative rating) using k-means clustering, classification models (SVM, Logistic Regression, Naive bayes, Random Forest), Recurrent Neural Networks, and LSTM models. Analyzed impact of different data preprocessing methods and regularization parameters such as TF-IDF, Doc2Vec, and Word2Vec.
+
+# [Project 4: QA Chatbot](https://github.com/klipetri/QA-Chatbot.git)
+
+• Question and Answer Chatbot was developed to automate answers to general questions from customers pertaining to travel to specific geographical locations. TF-IDF Vectorization and Sentence Transformers from Hugging Face were utilized and compared to build a model with the most desirable output.
